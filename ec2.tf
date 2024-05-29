@@ -22,6 +22,7 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
+this is sriram
 
 #Hey There!!
 
@@ -33,3 +34,4 @@ resource "aws_instance" "test" {
     Name = "HelloWorld"
   }
 }
+
